@@ -1,0 +1,1 @@
+This folder can contain the needed maps for use in GIS, or they can be loaded from the output folder. As an example, the maps as created by the code are saved here.

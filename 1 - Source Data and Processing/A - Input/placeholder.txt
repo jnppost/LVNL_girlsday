@@ -1,0 +1,1 @@
+This folder needs to contain the input geopackage
