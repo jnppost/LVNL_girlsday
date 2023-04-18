@@ -1,0 +1,12 @@
+Python
+QGIS
+
+The following Python Packages:
+
+fiona
+pyproj
+shapely
+pandas
+geopandas
+numpy
+jupyter (for using the notebooks)
